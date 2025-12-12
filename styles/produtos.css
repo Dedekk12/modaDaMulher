@@ -1,0 +1,38 @@
+.card-produto {
+
+
+    background-image: none;
+
+    & .bi-star-fill {
+        color: var(--cor-primaria);
+    }
+
+
+    
+}
+
+
+.prdutos {
+
+
+    & .produto {
+
+
+        
+
+        & .bi-star-fill {
+            color: var(--cor-primaria);
+        }
+
+            & .preco {
+                font-size: 40px;
+                font-weight: bold;
+            }
+
+        }
+
+
+
+
+
+}
